@@ -23,7 +23,7 @@ The AI-Enhanced TikTok Trend Analyzer and Content Generator is a powerful tool d
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/tiktok-trend-analyzer.git
+git clone https://github.com/Ritik55/tiktok-trend-analyzer.git
 cd tiktok-trend-analyzer
 pip install -r requirements.txt
 ```
